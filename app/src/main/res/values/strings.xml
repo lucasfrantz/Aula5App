@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aula5App</string>
+    <string-array name="estados">
+        <item>RS</item>
+        <item>SC</item>
+        <item>PR</item>
+    </string-array>
+    <string-array name="cidadesRS">
+        <item>Porto Alegre</item>
+        <item>Santa Cruz do Sul</item>
+        <item>Santa Maria</item>
+    </string-array>
+    <string-array name="cidadesSC">
+        <item>Florianópolis</item>
+        <item>Camboriú</item>
+        <item>Garopaba</item>
+    </string-array>
+    <string-array name="cidadesPR">
+        <item>Curitiba</item>
+        <item>Londrina</item>
+        <item>Maringá</item>
+    </string-array>
+</resources>
